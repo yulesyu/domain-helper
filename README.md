@@ -34,8 +34,8 @@ The following are the options that can be passed to middleware.
 
 Key | Description
 --- | ---
-`errorHandler` | What to do when exception occurs.
-`maxTimes` | The max times which exception occurs and it will exec process.exit.
+errorHandler | What to do when exception occurs.
+maxTimes | The max times which exception occurs and it will exec process.exit(1).
 
 
 ## License
