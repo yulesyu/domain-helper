@@ -1,0 +1,23 @@
+{
+  "name": "domain-helper",
+  "version": "1.0.0",
+  "description": "catch exception",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulesyu/domain-helper.git"
+  },
+  "keywords": [
+    "domain",
+    "express"
+  ],
+  "author": "yulesyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yulesyu/domain-helper/issues"
+  },
+  "homepage": "https://github.com/yulesyu/domain-helper#readme"
+}
